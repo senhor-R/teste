@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:0,Basta Crer
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:0,Canção Nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+#EXTINF:0,Canção Nova
+https://www.youtube.com/embed/FCxeG89jFqo
+#EXTINF:0,CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?CANAISGLAU
+#EXTINF:0,Conexaobr Tv
+rtmp://srvvenus.canaldoboi.com/livecx/livestream
+#EXTINF:0,euronews português
+https://www.youtube.com/embed/s-4hPNkiDq8
+#EXTINF:0,FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Gospel Music Television
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+#EXTINF:0,IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine2/playlist.m3u8
+#EXTINF:0,Kuriakos Music
+http://c2.manasat.com:1935/kmusic/kmusic3/playlist.m3u8
+#EXTINF:0,Novo Tempo RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Novo Tempo SP
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,Preve TV
+https://video01.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8
+#EXTINF:0,Real Madrid TV [Portugal]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?IPTVCOTIA - INTERNACIONAL
+#EXTINF:0,Rede União
+https://stmv1.srvif.com/admin/admin/playlist.m3u8
+#EXTINF:0,Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:0,RTQ [Mexico]
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:0,SBT (TV Jornal Caruaru)
+http://evpp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?IPTVCOTIA++++
+#EXTINF:0,SBT PE interior
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,SBT PE INTERIOR
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?CANAISGLAU
+#EXTINF:0,terra viva
+rtmp://evp.mm.uol.com.br/terraviva/terraviva
+#EXTINF:0,terra viva
+https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
+#EXTINF:0,TV Ambiental ES
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+#EXTINF:0,TV ASSEMBLEIA
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w591050354.m3u8
+#EXTINF:0,TV Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:0,TV Cidade
+http://209.126.127.101:1935/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:0,TV Cultura PA
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Diário do Sertão
+https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:0,TV Diário do Sertão PB
+https://www.dailymotion.com/video/x58lnlq
+#EXTINF:0,TV escola
+mms://refletor.mec.gov.br/tvescola
+#EXTINF:0,TV Maná Brasil
+http://195.22.11.11:1935/tvmanabrasil/tvmanabrasil_1/playlist.m3u8
+#EXTINF:0,TV Ponta Negra
+mms://aovivo.tvpontanegra.com.br/tvpnaovivo
+#EXTINF:0,TV SENADO AO VIVO
+http://theinternationaltv.com/brazil/../brazil/tvsenado.asx
+#EXTINF:0,TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TV Transamérica
+http://5953e7f9ae845.streamlock.net/ponto2/transamerica2/playlist.m3u8
+#EXTINF:0,TV Transamérica
+https://5953e7f9ae845.streamlock.net/ponto2/transamerica2/playlist.m3u8
+#EXTINF:0,tvbrusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist.m3u8
+#EXTINF:0,TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,TVE-RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0,tvmana1.com
+http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
+#EXTINF:0,TVUFGWEB / TV Brasil
+http://wowza.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0,viamorena.com
+https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
